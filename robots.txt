@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://iquzuena.github.io/EuF/sitemap_index.txt
+Sitemap: https://iquzuena.github.io/HpA/sitemap_index.txt
+Sitemap: https://iquzuena.github.io/Kns/sitemap_index.txt
+Sitemap: https://iquzuena.github.io/ROT/sitemap_index.txt
